@@ -1,5 +1,12 @@
 # Date Library Documentation
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[![npm version](https://img.shields.io/npm/v/@eli-90/date-lab.svg)](https://www.npmjs.com/package/@eli-90/date-lab)
+
+[![Bundle Size](https://img.shields.io/bundlephobia/min/@eli-90/date-lab.svg)](https://bundlephobia.com/result?p=@eli-90/date-lab)
+
+
 Visit the [date library](https://www.npmjs.com/package/@eli-90/date-lab) on npm
 
 The `D` class is a utility for working with date instances and formatting.
