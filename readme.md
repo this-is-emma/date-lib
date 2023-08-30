@@ -1,5 +1,7 @@
 # Date Library Documentation
 
+Visit the [date library](https://www.npmjs.com/package/@eli-90/date-lab) on npm
+
 The `D` class is a utility for working with date instances and formatting.
 
 ## Constructor
