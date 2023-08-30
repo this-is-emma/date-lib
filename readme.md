@@ -4,10 +4,12 @@
 
 [![npm version](https://img.shields.io/npm/v/@eli-90/date-lab.svg)](https://www.npmjs.com/package/@eli-90/date-lab)
 
+Visit the [date library](https://www.npmjs.com/package/@eli-90/date-lab) on npm
+
 [![Bundle Size](https://img.shields.io/bundlephobia/min/@eli-90/date-lab.svg)](https://bundlephobia.com/result?p=@eli-90/date-lab)
 
+[![GitHub issues](https://img.shields.io/github/issues/this-is-emma/date-lib.svg)](https://github.com/this-is-emma/date-lib/issues)
 
-Visit the [date library](https://www.npmjs.com/package/@eli-90/date-lab) on npm
 
 The `D` class is a utility for working with date instances and formatting.
 
